@@ -1,5 +1,6 @@
 .jumbotron {
-    background-image: linear-gradient(rgba(42, 196, 106, 0.6), rgba(0, 0, 0, 0.6)), url("https://photos.google.com/album/AF1QipNEkSHQi6oXt5HG_xFUQSjT9z73ScbM6TC0m8uw/photo/AF1QipPNbA_crrVOMs_qZ1H-d2h6zdE8dLfS2uz_9seC");
+    background-color: #301E1A;
+    background-image: url("https://github.com/charronda/click-game/blob/master/public/images/header-coffee.jpg?raw=true");
     background-size: cover;
     background-position: bottom;
   }
